@@ -44,8 +44,8 @@ changelog:
 # yaml-language-server: $schema=https://goreleaser.com/static/schema.json
 # vim: set ts=2 sw=2 tw=0 fo=cnqoj
 brews:
-- name: gophersay
-  homepage: https://github.com/arjundandagi/homebrew-brew
+- name: adcli
+  homepage: https://github.com/arjundandagi/adcli
   tap:
     owner: arjundandagi
     name: homebrew-brew
