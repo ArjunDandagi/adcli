@@ -47,5 +47,5 @@ brews:
 - name: gophersay
   homepage: https://github.com/arjundandagi/homebrew-brew
   tap:
-    owner: scraly
-    name: homebrew-tools
+    owner: arjundandagi
+    name: homebrew-brew
