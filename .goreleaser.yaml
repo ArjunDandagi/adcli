@@ -48,4 +48,5 @@ brews:
   homepage: https://github.com/arjundandagi/adcli
   tap:
     owner: arjundandagi
-    name: homebrew-brew/Formula
+    name: homebrew-brew
+    folder: Formula
